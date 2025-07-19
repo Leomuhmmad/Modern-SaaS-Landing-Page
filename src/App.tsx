@@ -7,6 +7,7 @@ import { Pricing } from "./components/sections/Pricing";
 import { CTA } from "./components/sections/CallToAction";
 
 
+
 function App() {
   return (
     <Layout title="ModernDays">
